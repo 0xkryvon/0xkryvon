@@ -3,7 +3,7 @@
 - **Blockchain Security Researcher** <br clear="both" />
 - **CTF Player at [@TroJeun](https://ctftime.org/team/374058)** <br clear="both" />
 - **Computer Science Engineering Student at [@ESI-Alger](https://esi.dz/)** <br clear="both" />
-- **IT Co-Manager at [@GDGAlgiers](https://github.com/GDGAlgiers)** <br clear="both" />
+- **Lead at [@GDGAlgiers](https://github.com/GDGAlgiers)** <br clear="both" />
 
 <p><img align="center" src="https://github-readme-stats-eosin-tau-94.vercel.app/api?username=0xkryvon&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&icon_color=79ff97" alt="0xkryvon"/></p>
 
